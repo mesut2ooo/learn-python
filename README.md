@@ -24,11 +24,11 @@
 
 1. ریپازیتوری رو کلون کن:
    ```bash
-   git clone https://github.com/username/Python-Course.git
+   git clone https://github.com/mesut2ooo/learn-python.git
    ```
 2. وارد پوشه بشو:
    ```bash
-   cd Python-Course
+   cd learn-python
    ```
 3. فایل‌های هر درس رو به ترتیب شماره مطالعه کن.
 
@@ -63,86 +63,7 @@ Python-Course/
 
 ---
 
-## 📜 لایسنس
-
-این دوره تحت لایسنس **MIT** منتشر شده. پس می‌تونی آزادانه ازش استفاده کنی و حتی تغییرش بدی.
-
----
-
 ## ⭐ حمایت
 
 اگه این دوره برات مفید بود، بهش **ستاره (Star)** بده تا بقیه هم پیدا کنندش ❤️
 ```
-
----
-
-## ۲. (اختیاری) ساخت صفحه HTML برای نمایش آنلاین
-
-اگه می‌خوای دوره رو به شکل یه وب‌سایت کوچیک هم نمایش بدی (با قابلیت مشاهده آنلاین از طریق GitHub Pages)، این فایل رو به اسم `index.html` توی پوشه‌ای مثل `docs/` یا ریشه پروژه بساز:
-
-```html
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>دوره آموزشی پایتون</title>
-    <style>
-        body {
-            font-family: 'Vazir', sans-serif;
-            background: #f5f5f5;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-        }
-        h1 {
-            color: #306998;
-        }
-        .section {
-            background: #e8f0fe;
-            padding: 15px;
-            margin: 15px 0;
-            border-radius: 8px;
-            text-align: right;
-        }
-        .btn {
-            background: #306998;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 6px;
-            text-decoration: none;
-            display: inline-block;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🐍 دوره جامع پایتون</h1>
-        <p>آموزش گام‌به‌گام پایتون از مقدماتی تا پیشرفته</p>
-        
-        <div class="section">
-            <h3>📘 بخش اول: مبانی</h3>
-            <p>متغیرها، حلقه‌ها، شرط‌ها، توابع</p>
-        </div>
-        <div class="section">
-            <h3>📗 بخش دوم: ساختمان داده</h3>
-            <p>لیست، دیکشنری، تاپل، ست</p>
-        </div>
-        <div class="section">
-            <h3>📕 بخش سوم: شی‌گرایی</h3>
-            <p>کلاس، وراثت، پلی‌مورفیسم</p>
-        </div>
-        <!-- بقیه بخش‌ها رو همینطور اضافه کن -->
-        
-        <a href="https://github.com/username/Python-Course" class="btn">مشاهده در گیت‌هاب</a>
-    </div>
-</body>
-</html>

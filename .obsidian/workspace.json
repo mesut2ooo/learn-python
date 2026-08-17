@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/01.Introduction and first steps/02.variables.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.variables"
+              "title": "README"
             }
           }
         ],
@@ -202,6 +202,9 @@
   },
   "active": "9d4a9844b6dd6643",
   "lastOpenFiles": [
+    "10.data visualization/01.plots.md",
+    "06.OOP/02.attributes and methods.md",
+    "01.Introduction and first steps/01.whats python and your first program.md",
     "book.md",
     "chapters/01.Introduction and first steps/02.variables.md",
     "chapters/01.Introduction and first steps/01.whats python and your first program.md",
@@ -227,9 +230,6 @@
     "chapters/08.tkinter/05.pop ups.md",
     "chapters/08.tkinter/04.grid.md",
     "chapters/08.tkinter/03.entry.md",
-    "chapters/08.tkinter/02.buttons.md",
-    "chapters/08.tkinter/01.first window.md",
-    "chapters/07.pygame/06.sound.md",
     "b.py",
     "chapters/13.Automation",
     "chapters/12.api and json",

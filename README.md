@@ -1,6 +1,5 @@
 # 🐍 دوره آموزشی جامع پایتون
 
-<div dir="rtl" align="right">
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -123,8 +122,7 @@ cd python-course
 
 ## 👨‍💻 نویسنده
 
-ساخته شده با ❤️ توسط [mesut2ooo](https://github.com/mesut2ooo)
+ساخته شده با ❤️
 
-> **سوال داری؟** توی بخش Issues بپرس یا بهم ایمیل بزن.
+ **سوال داری؟** توی بخش Issues بپرس یا بهم ایمیل بزن.
 
-</div>

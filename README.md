@@ -4,8 +4,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/yourusername/python-course)
-[![Stars](https://img.shields.io/github/stars/yourusername/python-course?style=social)](https://github.com/yourusername/python-course)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/mesut2ooo/learn-python)
+[![Stars](https://img.shields.io/github/stars/mesut2ooo/learn-python?style=social)](https://github.com/mesut2ooo/learn-python)
 
 ---
 
@@ -42,50 +42,6 @@
 
 ---
 
-## 📂 ساختار پوشه‌ها
-
-دوره رو به این شکل مرتب کردم تا راحت بتونی پیدا کنی چی رو می‌خوای:
-
-```
-python-course/
-│
-├── 01-getting-started/
-│   ├── lesson1-1-intro.py
-│   ├── lesson1-2-variables.py
-│   └── exercises/
-│
-├── 02-conditions-loops/
-│   ├── lesson2-1-if-else.py
-│   ├── lesson2-2-for-while.py
-│   └── exercises/
-│
-├── 03-data-structures/
-│   ├── lesson3-1-lists.py
-│   ├── lesson3-2-dictionaries.py
-│   └── exercises/
-│
-├── 06-oop/
-│   ├── lesson6-1-classes.py
-│   ├── lesson6-2-attributes-methods.py
-│   └── exercises/
-│
-├── 10-visualization/
-│   ├── lesson10-1-matplotlib.py
-│   ├── lesson10-2-seaborn.py
-│   └── exercises/
-│
-├── projects/                    # پروژه‌های عملی
-│   ├── todo-app/
-│   ├── data-analyzer/
-│   └── weather-app/
-│
-├── README.md                    # همین صفحه‌ای که می‌خونی
-├── CONTRIBUTING.md              # راهنمای مشارکت
-└── LICENSE                      # لایسنس MIT
-```
-
----
-
 ## 🚀 چطور از این دوره استفاده کنم؟
 
 خیلی ساده! کافیه این چند قدم رو انجام بدی:
@@ -95,10 +51,10 @@ python-course/
 توی ترمینال (یا Command Prompt) این دستور رو بزن:
 
 ```bash
-git clone https://github.com/yourusername/python-course.git
+git clone https://github.com/mesut2ooo/learn-python.git
 cd python-course
 ```
-
+---
 ### قدم ۲: نصب پایتون (اگه نداری)
 
 - برو به [python.org](https://www.python.org/)
@@ -106,14 +62,13 @@ cd python-course
 - توی ترمینال اجرا کن: `python --version` تا مطمئن بشی درست نصب شده
 
 ### قدم ۳: شروع کن به خوندن!
-
-برو توی پوشه `01-getting-started/` و فایل اول رو باز کن. هر درس رو به ترتیب بخون و کدها رو خودت توی VS Code یا هر ویرایشگر دیگه‌ای تایپ کن و اجرا کن.
+با برنامه obsidian یا هر برنامه ای که بهت اجازه میده فایل های مارک داون را بخونی را نصب کن و این پوشه را داخلش بریز.
 
 > **💡 نکته طلایی:** فقط کدها رو نگاه نکن! حتماً خودت تایپشون کن. تایپ کردن دستی باعث میشه مغزت کد رو بهتر یاد بگیره.
 
 ### قدم ۴: تمرین‌ها رو حل کن
 
-هر فصل یه سری تمرین داره که توی پوشه `exercises/` قرار گرفتن. سعی کن قبل از دیدن جواب‌ها، خودت حلشون کنی. اگه گیر کردی، جواب‌هاش توی پوشه `solutions/` هست.
+آخر هر درس دوتا تمرین هست یکی ساده و دومی چالشی . اولی را حتما حل کن و دومی را هم اگه دوست داری حرفه ای تر بشب حل کن.
 
 ---
 
@@ -149,21 +104,7 @@ cd python-course
 
 1. **گزارش اشکال (Issue)**: اگه توی درس‌ها اشتباهی دیدی یا جایی رو متوجه نشدی، توی بخش Issues گیت‌هاب بهم بگو.
 2. **پیشنهاد درس جدید**: اگه فکر می‌کنی یه مبحث مهم جا مونده، برام بنویس.
-3. **ترجمه به زبان دیگه**: اگه می‌خوای دوره رو به انگلیسی یا زبان دیگه ترجمه کنی، خیلی خوشحال میشم!
-4. **ستاره دادن ⭐**: اگه دوره برات مفید بود، بهش ستاره بده تا بقیه هم پیدا کنندش.
-
-برای راهنمایی کامل مشارکت، فایل `CONTRIBUTING.md` رو ببین.
-
----
-
-## 📜 لایسنس
-
-این دوره تحت لایسنس **MIT** منتشر شده. یعنی:
-
-- ✅ می‌تونی آزادانه ازش استفاده کنی
-- ✅ می‌تونی تغییرش بدی و نسخه خودت رو منتشر کنی
-- ✅ می‌تونی توی پروژه‌های تجاری ازش استفاده کنی
-- ❌ فقط کافیه که اسم من (نویسنده اصلی) رو توی کد حفظ کنی
+3. **ستاره دادن ⭐**: اگه دوره برات مفید بود، بهش ستاره بده تا بقیه هم پیدا کنندش.
 
 ---
 
@@ -185,9 +126,5 @@ cd python-course
 ساخته شده با ❤️ توسط [mesut2ooo](https://github.com/mesut2ooo)
 
 > **سوال داری؟** توی بخش Issues بپرس یا بهم ایمیل بزن.
-
----
-
-**آخرین بروزرسانی:** مرداد ۱۴۰۵
 
 </div>
